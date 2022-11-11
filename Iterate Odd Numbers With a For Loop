@@ -1,0 +1,8 @@
+// Setup
+const myArray = [];
+
+// Only change code below this line
+for (let o = 1; o <= 9 ; o += 2) {
+  myArray.push(o);
+}
+console.log(myArray)
